@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="@dimen/class_index_cell_width"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/holo_red_light"
+                    android:orientation="vertical">
+
+                    <View
+                        android:layout_width="@dimen/class_index_cell_width"
+                        android:layout_height="@dimen/class_index_cell_width"
+                        android:background="@android:color/holo_orange_light" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_1" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_2" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_3" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_4" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_5" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_6" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_7" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_8" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_9" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_10" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_11" />
+
+                    <TextView
+                        style="@style/class_index_style"
+                        android:text="@string/class_index_12" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ll_l1"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_monday" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_l2"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_tuesday" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_l3"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_wednesday" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_l4"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_thursday" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_l5"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_friday" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_l6"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_saturday" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_l7"
+                    android:layout_width="@dimen/week_cell_width"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/week_style"
+                        android:text="@string/cell_sunday" />
+                </LinearLayout>
+            </LinearLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+</LinearLayout>

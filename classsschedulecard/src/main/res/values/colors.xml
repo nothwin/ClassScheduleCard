@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="week_cell_background">#000000</color>
+    <color name="week_cell_text_color">#57CA32</color>
+    <color name="class_index_cell_background">#57CA32</color>
+    <color name="class_index_cell_text_color">#000000</color>
+</resources>

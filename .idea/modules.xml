@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassScheduleCard.iml" filepath="$PROJECT_DIR$/ClassScheduleCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classsschedulecard/classsschedulecard.iml" filepath="$PROJECT_DIR$/classsschedulecard/classsschedulecard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classsschedulecard-sample/classsschedulecard-sample.iml" filepath="$PROJECT_DIR$/classsschedulecard-sample/classsschedulecard-sample.iml" />
+    </modules>
+  </component>
+</project>

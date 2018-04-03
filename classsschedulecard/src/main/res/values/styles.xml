@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="week_style">
+        <item name="android:layout_width">@dimen/week_cell_width</item>
+        <item name="android:layout_height">@dimen/week_cell_height</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:background">@color/week_cell_background</item>
+        <item name="android:textColor">@color/week_cell_text_color</item>
+        <item name="android:textSize">@dimen/week_cell_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="class_index_style">
+        <item name="android:layout_width">@dimen/class_index_cell_width</item>
+        <item name="android:layout_height">@dimen/class_index_cell_height</item>
+        <item name="android:background">@color/class_index_cell_background</item>
+        <item name="android:textColor">@color/class_index_cell_text_color</item>
+        <item name="android:textSize">@dimen/class_index_cell_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

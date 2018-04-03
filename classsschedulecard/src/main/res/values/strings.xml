@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ClassScheduleCard</string>
+    <string name="cell_monday">Monday</string>
+    <string name="cell_tuesday">Tuesday</string>
+    <string name="cell_wednesday">Wednesday</string>
+    <string name="cell_thursday">Thursday</string>
+    <string name="cell_friday">Friday</string>
+    <string name="cell_saturday">Saturday</string>
+    <string name="cell_sunday">Sunday</string>
+    <string name="class_index_1">1</string>
+    <string name="class_index_2">2</string>
+    <string name="class_index_3">3</string>
+    <string name="class_index_4">4</string>
+    <string name="class_index_5">5</string>
+    <string name="class_index_6">6</string>
+    <string name="class_index_7">7</string>
+    <string name="class_index_8">8</string>
+    <string name="class_index_9">9</string>
+    <string name="class_index_10">10</string>
+    <string name="class_index_11">11</string>
+    <string name="class_index_12">12</string>
+</resources>
